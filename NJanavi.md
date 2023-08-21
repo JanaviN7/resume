@@ -9,7 +9,7 @@ janavinathvani.jn.83@gmail.com
 
 Objective:
 ---------
-I aim to become an Associate Product Engineer at DELTAX by leveraging my expertise in AI and ML as a Computer Science Engineering student. I am excited to apply my in-depth knowledge of artificial intelligence and machine learning to contribute effectively to the development of innovative products. With a strong foundation in both technical and analytical skills, I am dedicated to collaborating within a team to create impactful solutions that align with DELTAX’s goals. My objective is to leverage my AI and ML expertise in a dynamic work environment, fostering growth for both the organization and myself.
+Seeking a software engineering role at Stripe to contribute my technical skills, collaborative mindset, and passion for user-centric development to help create innovative solutions and drive impactful projects.
 
 Education:
 ----------
