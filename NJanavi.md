@@ -9,7 +9,7 @@ janavinathvani.jn.83@gmail.com
 
 Objective:
 ---------
-Seeking a software engineering role at Stripe to contribute my technical skills, collaborative mindset, and passion for user-centric development to help create innovative solutions and drive impactful projects.
+Aspiring Computer Science and Engineering final-year student with a specialization in AI & ML, eager to apply theoretical knowledge gained through coursework in a practical setting. Seeking an internship opportunity to contribute to a dynamic team, enhance skills in real-world AI & ML applications, and gain valuable industry experience
 
 Education:
 ----------
