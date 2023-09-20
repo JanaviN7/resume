@@ -16,32 +16,28 @@ Education:
 KG Reddy College of Engineering and Technology
 - Degree Program: B.Tech in Computer Science Engineering (Ai-Ml)
 - Expected Graduation: June-2024
-- Current CGPA: 7.49
+- Current CGPA: 7.28
 
 Relevant Coursework:
 --------------------
 - Data Structures and Algorithms
 - Object-Oriented Programming
 - Software Engineering Principles
-- Algorithms for Big Data
-- Operating Systems
 
 Technical Skills:
 -----------------
 - Programming Languages: Basic Python, Limited Java
-- Data Structures: In the process of learning
-- Algorithms: In the process of learning
+- Data Structures Algorithm: In the process of learning
 - Version Control: Git
-- Tools: Visual Studio, Eclipse, PyCharm, UiPath
-- Database: MySQL
-- Web Technologies: HTML, CSS
+- Tools: Visual Studio, Eclipse, PyCharm, UiPath, MATLAB
+- Database: MySQL, MongoDB
 
 Additional Skills:
 ------------------
 - Problem-solving: Demonstrated ability to approach challenges analytically and find effective solutions.
 - Teamwork: Strong collaboration skills developed through group projects. 
 - Communication: Effective verbal and written communication skills for explaining ideas and concepts.
-- Adaptability: Quick learner who can easily adapt to new tools, technologies, and environments.
+- Adaptability: Quick learner who can quickly adapt to new tools, technologies, and environments.
 - Time Management: Proven ability to balance coursework, personal projects, and other commitments.
 - Leadership: Experience in Techfest-2022 activities showcasing leadership qualities and initiative.
 
@@ -64,10 +60,10 @@ Projects:
 
 - Library Management System using PHP and MySQL
 
-  -   Created a web-based library management system to manage book records and transactions efficiently.
+  -   Created a web-based library management system to efficiently manage book records and transactions.
   -   Designed the system’s front end using HTML, CSS, and PHP to provide a user-friendly interface.
   -   Implemented database functionality using MySQL to store and retrieve book information, user details, and borrowing records.
-  -   I utilized PHP sessions to authenticate users and regulate access privileges. This project showcased my expertise in web development, database architecture, and user engagement.
+  -   I utilized PHP sessions to authenticate users and regulate access privileges.
 
 
 Leadership and Activities:
