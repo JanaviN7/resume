@@ -50,18 +50,20 @@ Languages:
 
 Projects:
 ---------
+
+- AuralTrans Project
+  - Led a 3-member team in developing AuralTrans, an integrated multi-speaker audio analysis system.
+  - Optimized audio quality, enabling real-time speaker diarization.
+  - Achieved exceptional transcription accuracy for diverse accents.
+  - Integrated custom sentiment analysis and text summarization.
+  - Transformed multi-speaker audio analysis for board meetings, real-time subtitles, and more.
 - Breast Cancer Detection Using Machine Learning
 
   - Trained a machine learning model using a dataset of 10,000+ tumor samples, achieving a precision rate of 92% and recall rate of 96% in accurately classifying breast cancer tumors.
-  - Preprocessed and analyzed the Breast Cancer dataset utilizing feature extraction techniques, resulting in a 25% increase in accuracy for early cancer detection.
 
 - Library Management System using PHP and MySQL
 
-  -   Created a web-based library management system to efficiently manage book records and transactions.
-  -   Designed the system’s front end using HTML, CSS, and PHP to provide a user-friendly interface.
-  -   Implemented database functionality using MySQL to store and retrieve book information, user details, and borrowing records.
-  -   I utilized PHP sessions to authenticate users and regulate access privileges.
-
+  - Crafted an impressive web-based library management system distinguished by its intuitive user interface, meticulously designed using HTML, CSS, and PHP. The backbone of the system lies in its robust MySQL database, seamlessly handling the storage and retrieval of extensive book records, user profiles, and transaction history.
 
 Leadership and Activities:
 --------------------------
@@ -71,7 +73,6 @@ Leadership and Activities:
 	-   Engage with peers to solve algorithmic problems and improve skills.
 
 -   CCPSAT-22, Volunteer
-
 	-   As a student volunteer, I contributed to the community of the 1st International Conference on Cyber-Physical Systems and Assistive Technology in 2022.
 
 Awards and Honors:
@@ -92,17 +93,26 @@ Conferences and Workshops:
 Extracurricular Activities:
 ---------------------------
 - Participated in KGR Smart India Hackathon [20-Oct-2022]
-   - Collaborated in a team to develop innovative solutions to real-world challenges within a limited timeframe.
-   - Utilized coding, problem-solving, and teamwork skills to create a working prototype.
-   - Presented the solution to a panel of judges, showcasing the ability to communicate complex ideas effectively.
-   
+   -Collaborated in a team to solve real-world challenges under tight deadlines. Developed a working prototype, demonstrating coding, problem-solving, and teamwork skills. Presented the solution effectively to judges, showcasing strong communication of complex ideas.
+
 - Participated in Shark Tank KGR 
-   - Developed a compelling business pitch and presentation for a startup idea.
-   - Demonstrated strong communication and persuasion skills while presenting to a panel of judges.
-   - Gained experience in formulating business plans, addressing questions, and refining pitches.
+   - Crafted a persuasive startup pitch, showcasing excellent communication and persuasion abilities to a judging panel. Gained valuable experience in business plan formulation, addressing inquiries, and refining pitches.
 
 - Participated in Ideathon [22-Mar-2022]
-   - Participated in an ideation competition, contributing creative solutions to address specific problems.
-   - Showcased creative thinking and the ability to generate original and feasible ideas.
-   - Gained experience in brainstorming, concept development, and presenting ideas convincingly.
+   - Engaged in an ideation competition, demonstrating creative problem-solving skills by generating original and practical solutions. Acquired experience in brainstorming, concept development, and compelling idea presentation.
+
+
+Certificates:
+---------------------------
+- Machine Learning & AI Builder Challenge
+	- Issuing Organization: Microsoft
+ 	- Completion Date: September-2023
+- Computer Vision Onramp 
+	- Issuing Organization: MathWorks
+ 	- Completion Date: September-2023
+- Artificial Intelligence with Machine Learning 
+	- Issuing Organization: Oracle
+	- Completion Date: November-2022
+
+
 
